@@ -4,6 +4,8 @@
 FsUnit
 =======
 
+[![Join the chat at https://gitter.im/et1975/FsUnit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/et1975/FsUnit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **FsUnit** is a set of libraries that makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
 FsUnit currently supports NUnit, MbUnit, xUnit, and MsTest (VS11 only).
 
